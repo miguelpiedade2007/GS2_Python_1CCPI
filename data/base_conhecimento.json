@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Tirar ou regularizar o CPF",
+    "palavras_chave": [
+      "cpf",
+      "tirar cpf",
+      "regularizar cpf",
+      "situacao cadastral",
+      "situacao de cadastro"
+    ],
+    "resposta": "A inscrição ou regularização do CPF pode ser feita gratuitamente pela internet no site da Receita Federal ou presencialmente em unidades conveniadas como Banco do Brasil, Caixa Econômica Federal e Correios.",
+    "documentos": [
+      "Documento oficial de identificação com foto (RG ou CIN)",
+      "Certidão de Nascimento ou de Casamento",
+      "Título de Eleitor (para maiores de 18 anos)",
+      "Comprovante de endereço"
+    ],
+    "onde": "Site da Receita Federal, agências dos Correios, Banco do Brasil, Caixa ou Poupatempo em São Paulo",
+    "fonte": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Emitir a Carteira de Trabalho Digital (CTPS)",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "carteira de trabalho digital",
+      "ctps",
+      "carteira digital",
+      "baixar carteira"
+    ],
+    "resposta": "A Carteira de Trabalho Digital substitui o documento físico para contratações formais. Basta criar uma conta Gov.br e acessar o aplicativo ou portal web; o número da carteira passa a ser o próprio CPF.",
+    "documentos": [
+      "CPF",
+      "Conta Gov.br ativa (login e senha)"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital (Android e iOS) ou Portal Emprega Brasil",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Tirar o Título de Eleitor (e-Título)",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo eleitoral",
+      "e-titulo",
+      "tirar titulo",
+      "tirar o titulo"
+    ],
+    "resposta": "O alistamento eleitoral é facultativo aos 16 e 17 anos e obrigatório a partir dos 18 anos. O pedido pode ser feito online pelo sistema Título Net da Justiça Eleitoral ou em um cartório eleitoral.",
+    "documentos": [
+      "Documento oficial de identidade com foto (frente e verso)",
+      "Comprovante de residência recente",
+      "Certificado de quitação militar (para homens no ano em que completam 19 anos)"
+    ],
+    "onde": "Site do TSE (Título Net), Cartórios Eleitorais de São Paulo ou postos do Poupatempo com atendimento do TRE-SP",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Tirar a Carteira de Identidade Nacional (CIN)",
+    "palavras_chave": [
+      "cin",
+      "carteira de identidade",
+      "tirar rg",
+      "identidade nacional"
+    ],
+    "resposta": "A Carteira de Identidade Nacional (CIN) unifica o número do documento ao CPF. No estado de São Paulo, a primeira via em papel é gratuita e exige agendamento prévio.",
+    "documentos": [
+      "Certidão de Nascimento ou de Casamento (original ou cópia autenticada)",
+      "CPF regularizado na Receita Federal"
+    ],
+    "onde": "Postos do Poupatempo no estado de São Paulo (com agendamento pelo app ou portal Poupatempo)",
+    "fonte": "https://www.poupatempo.sp.gov.br",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho",
+    "titulo": "Direitos da primeira carteira assinada (CLT)",
+    "palavras_chave": [
+      "clt",
+      "carteira assinada",
+      "direitos trabalhistas",
+      "ferias",
+      "decimo terceiro"
+    ],
+    "resposta": "Todo trabalhador contratado sob o regime CLT tem direito a salário mínimo ou piso da categoria, jornada máxima de 44 horas semanais, descanso semanal remunerado, férias anuais acrescidas de um terço, décimo terceiro salário e depósitos mensais de 8% no FGTS.",
+    "documentos": [
+      "CPF (para registro na Carteira de Trabalho Digital)",
+      "Documento de identidade com foto",
+      "Comprovante de residência e dados bancários"
+    ],
+    "onde": "Empresa contratante e acompanhamento pelo aplicativo Carteira de Trabalho Digital",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Consultar saldo e extrato do FGTS",
+    "palavras_chave": [
+      "fgts",
+      "consultar fgts",
+      "saldo fgts",
+      "extrato fgts"
+    ],
+    "resposta": "O trabalhador com carteira assinada recebe depósitos mensais de 8% do salário bruto no FGTS (2% para Jovem Aprendiz). O extrato e as opções de saque podem ser acompanhados gratuitamente pelo aplicativo oficial da Caixa.",
+    "documentos": [
+      "CPF",
+      "Senha cadastrada no aplicativo FGTS ou conta Caixa"
+    ],
+    "onde": "Aplicativo FGTS (Caixa Econômica Federal) ou agências da Caixa em São Paulo",
+    "fonte": "https://www.caixa.gov.br/beneficios-trabalhador/fgts",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Solicitar o Seguro-Desemprego",
+    "palavras_chave": [
+      "seguro desemprego",
+      "seguro-desemprego",
+      "demissao sem justa causa",
+      "parcelas seguro"
+    ],
+    "resposta": "Tem direito ao benefício quem foi dispensado sem justa causa e cumpriu o tempo mínimo de trabalho exigido (12 meses na primeira solicitação). O pedido deve ser feito entre o 7º e o 120º dia após a demissão.",
+    "documentos": [
+      "Requerimento do Seguro-Desemprego entregue pelo empregador",
+      "CPF",
+      "Documento de identificação com foto",
+      "Termo de Rescisão do Contrato de Trabalho (TRCT)"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital, Portal Gov.br ou Postos de Atendimento ao Trabalhador (PAT) em São Paulo",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho",
+    "titulo": "Programa Jovem Aprendiz",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "menor aprendiz",
+      "lei da aprendizagem",
+      "vaga aprendiz"
+    ],
+    "resposta": "Destinado a jovens de 14 a 24 anos matriculados no ensino fundamental ou médio (ou que já concluíram o ensino médio). O contrato garante carteira assinada, salário mínimo-hora, curso de capacitação teórica e jornada reduzida de até 6 horas diárias.",
+    "documentos": [
+      "CPF e documento de identidade (RG ou CIN)",
+      "Comprovante de matrícula e frequência escolar (se ainda estiver estudando)",
+      "Carteira de Trabalho Digital"
+    ],
+    "onde": "Portal Emprega Brasil, PATs de São Paulo e entidades formadoras habilitadas (SENAI, SENAC, CIEE, ESPRO)",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 9,
+    "categoria": "Estágio e Estudo",
+    "titulo": "Direitos do estagiário (Lei do Estágio)",
+    "palavras_chave": [
+      "estagio",
+      "estagiario",
+      "lei do estagio",
+      "bolsa auxilio",
+      "termo de compromisso"
+    ],
+    "resposta": "O estágio não cria vínculo empregatício CLT, mas exige Termo de Compromisso assinado pela empresa, pelo estudante e pela instituição de ensino. A jornada máxima é de 6 horas diárias (30 semanais), com direito a recesso remunerado de 30 dias a cada 12 meses, seguro contra acidentes e bolsa-auxílio mais auxílio-transporte no estágio não obrigatório.",
+    "documentos": [
+      "Declaração de matrícula atualizada da escola ou faculdade",
+      "CPF e documento de identidade",
+      "Termo de Compromisso de Estágio (TCE)"
+    ],
+    "onde": "Setor de estágios da instituição de ensino, CIEE, Nube ou diretamente nas empresas contratantes",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 10,
+    "categoria": "Documentos",
+    "titulo": "Alistamento Militar Obrigatório",
+    "palavras_chave": [
+      "alistamento militar",
+      "alistamento",
+      "alistar",
+      "reservista",
+      "exercito"
+    ],
+    "resposta": "Todo jovem brasileiro do sexo masculino deve se alistar entre 1º de janeiro e 30 de junho do ano em que completa 18 anos. O certificado de dispensa ou reservista é obrigatório para assumir vagas formais de emprego e ingressar em universidades.",
+    "documentos": [
+      "CPF",
+      "Certidão de Nascimento ou documento de identidade com foto",
+      "Comprovante de residência"
+    ],
+    "onde": "Site Alistamento Online (Exército Brasileiro) ou Junta de Serviço Militar mais próxima em São Paulo",
+    "fonte": "https://alistamento.eb.mil.br",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 11,
+    "categoria": "Estágio e Estudo",
+    "titulo": "Programa Pé-de-Meia (incentivo financeiro escolar)",
+    "palavras_chave": [
+      "pe de meia",
+      "pe-de-meia",
+      "incentivo ensino medio",
+      "bolsa estudante"
+    ],
+    "resposta": "O Pé-de-Meia é uma poupança de incentivo financeiro-educacional do Governo Federal para estudantes matriculados no ensino médio público inscritos no CadÚnico, pagando parcelas por matrícula, frequência escolar, conclusão do ano e participação no ENEM.",
+    "documentos": [
+      "CPF do estudante",
+      "Matrícula ativa em escola pública de ensino médio",
+      "Inscrição da família no Cadastro Único (CadÚnico)"
+    ],
+    "onde": "Aplicativo Jornada do Estudante (MEC) e movimentação pelo aplicativo Caixa Tem",
+    "fonte": "https://www.gov.br/mec/pt-br/pe-de-meia",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 12,
+    "categoria": "Estágio e Estudo",
+    "titulo": "Bolsas de estudo pelo Prouni",
+    "palavras_chave": [
+      "prouni",
+      "bolsa faculdade",
+      "ensino superior",
+      "bolsa integral"
+    ],
+    "resposta": "O Programa Universidade para Todos (Prouni) oferece bolsas de estudo integrais (100%) e parciais (50%) em instituições privadas de ensino superior. É necessário ter feito o ENEM mais recente com média mínima de 450 pontos, nota acima de zero na redação e atender aos critérios de renda familiar.",
+    "documentos": [
+      "CPF e documento de identidade com foto",
+      "Comprovantes de residência e de renda de todos os membros do grupo familiar",
+      "Histórico escolar do ensino médio (para comprovar escola pública ou bolsa integral)"
+    ],
+    "onde": "Portal Único de Acesso ao Ensino Superior (MEC)",
+    "fonte": "https://acessounico.mec.gov.br/prouni",
+    "verificado_em": "2026-11-17"
+  }
+]

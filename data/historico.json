@@ -1,0 +1,275 @@
+[
+  {
+    "data": "2026-11-16 14:12:30",
+    "origem": "pergunta",
+    "pergunta": "Tenho 18 anos, preciso me alistar?",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 19.1,
+    "nota_facilidade": 4,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "Tenho 18 anos, preciso me alistar?",
+        "id_orientacao": 10,
+        "ajudou": true
+      }
+    ]
+  },
+  {
+    "data": "2026-11-16 14:12:48",
+    "origem": "pergunta",
+    "pergunta": "Como tiro meu título de eleitor?",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 13.6,
+    "nota_facilidade": null,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "Como tiro meu título de eleitor?",
+        "id_orientacao": 3,
+        "ajudou": true
+      }
+    ]
+  },
+  {
+    "data": "2026-11-16 14:13:04",
+    "origem": "categoria",
+    "pergunta": "Documentos",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 8.9,
+    "nota_facilidade": null
+  },
+  {
+    "data": "2026-11-16 14:13:35",
+    "origem": "pergunta",
+    "pergunta": "Onde vejo se meu CPF está regular?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 22.9,
+    "nota_facilidade": null,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "Onde vejo se meu CPF está regular?",
+        "id_orientacao": 1,
+        "ajudou": true
+      }
+    ]
+  },
+  {
+    "data": "2026-11-16 19:41:38",
+    "origem": "pergunta",
+    "pergunta": "A empresa pediu minha carteira de trabalho. Onde vejo isso?",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 10.8,
+    "nota_facilidade": 3,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "A empresa pediu minha carteira de trabalho. Onde vejo isso?",
+        "id_orientacao": 2,
+        "ajudou": true
+      }
+    ]
+  },
+  {
+    "data": "2026-11-16 19:41:52",
+    "origem": "pergunta",
+    "pergunta": "Onde olho o saldo do FGTS?",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 9.9,
+    "nota_facilidade": null,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "Onde olho o saldo do FGTS?",
+        "id_orientacao": 6,
+        "ajudou": true
+      }
+    ]
+  },
+  {
+    "data": "2026-11-16 19:42:12",
+    "origem": "pergunta",
+    "pergunta": "Como peço seguro-desemprego?",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 17.1,
+    "nota_facilidade": null,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "Como peço seguro-desemprego?",
+        "id_orientacao": 7,
+        "ajudou": true
+      }
+    ]
+  },
+  {
+    "data": "2026-11-16 19:42:50",
+    "origem": "pergunta",
+    "pergunta": "Quero consultar o FGTS para saber sobre vale-transporte.",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 2,
+    "tempo_segundos": 31.2,
+    "nota_facilidade": null,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "Quero consultar o FGTS para saber sobre vale-transporte.",
+        "id_orientacao": 6,
+        "ajudou": false
+      },
+      {
+        "pergunta": "Tenho direito a vale-transporte?",
+        "id_orientacao": null,
+        "ajudou": null
+      }
+    ]
+  },
+  {
+    "data": "2026-11-17 10:15:57",
+    "origem": "pergunta",
+    "pergunta": "Como funciona o Prouni?",
+    "id_orientacao": 12,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 17.7,
+    "nota_facilidade": 4,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "Como funciona o Prouni?",
+        "id_orientacao": 12,
+        "ajudou": true
+      }
+    ]
+  },
+  {
+    "data": "2026-11-17 10:16:41",
+    "origem": "pergunta",
+    "pergunta": "O estágio precisa pagar bolsa-auxílio?",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_segundos": 36.8,
+    "nota_facilidade": null,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "Quem faz faculdade e trabalha meio período recebe alguma coisa?",
+        "id_orientacao": null,
+        "ajudou": null
+      },
+      {
+        "pergunta": "O estágio precisa pagar bolsa-auxílio?",
+        "id_orientacao": 9,
+        "ajudou": true
+      }
+    ]
+  },
+  {
+    "data": "2026-11-17 10:16:59",
+    "origem": "pergunta",
+    "pergunta": "Como vejo se tenho direito ao Pé-de-Meia?",
+    "id_orientacao": 11,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 9.6,
+    "nota_facilidade": null,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "Como vejo se tenho direito ao Pé-de-Meia?",
+        "id_orientacao": 11,
+        "ajudou": true
+      }
+    ]
+  },
+  {
+    "data": "2026-11-17 10:17:24",
+    "origem": "pergunta",
+    "pergunta": "Onde consigo meia-entrada?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 20.0,
+    "nota_facilidade": null,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "Onde consigo meia-entrada?",
+        "id_orientacao": null,
+        "ajudou": null
+      }
+    ]
+  },
+  {
+    "data": "2026-11-18 16:04:31",
+    "origem": "pergunta",
+    "pergunta": "Recebi uma proposta. Onde acesso minha carteira de trabalho digital para a contratação?",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 11.8,
+    "nota_facilidade": 4,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "Recebi uma proposta. Onde acesso minha carteira de trabalho digital para a contratação?",
+        "id_orientacao": 2,
+        "ajudou": true
+      }
+    ]
+  },
+  {
+    "data": "2026-11-18 16:04:49",
+    "origem": "pergunta",
+    "pergunta": "Antes de sair do emprego, onde confiro os depósitos do FGTS?",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 14.5,
+    "nota_facilidade": null,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "Antes de sair do emprego, onde confiro os depósitos do FGTS?",
+        "id_orientacao": 6,
+        "ajudou": true
+      }
+    ]
+  },
+  {
+    "data": "2026-11-18 16:05:08",
+    "origem": "pergunta",
+    "pergunta": "Se eu pedir demissão para mudar de empresa, como funciona o aviso prévio?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 11.0,
+    "nota_facilidade": null,
+    "detalhes_tentativas": [
+      {
+        "pergunta": "Se eu pedir demissão para mudar de empresa, como funciona o aviso prévio?",
+        "id_orientacao": null,
+        "ajudou": null
+      }
+    ]
+  }
+]
