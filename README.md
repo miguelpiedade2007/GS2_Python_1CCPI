@@ -1,4 +1,4 @@
-# Citizen Assist AI
+# Citizen Assist AI - OrientaJovem SP
 
 Assistente de terminal, feito em Python, que orienta **jovens no primeiro emprego em São Paulo**
 com base em informações verificadas em fontes oficiais. Toda resposta mostra a fonte, a data
@@ -165,4 +165,4 @@ sozinha acionasse o tema em perguntas não relacionadas ao alistamento.
 
 ## Vídeo técnico
 
-(Vídeo pendente)
+Link (YouTube, não listado): https://youtu.be/UQ6J4Yqfv0w
